@@ -1,9 +1,151 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.3">
   <diagram name="Page-1" id="jRUaesS8LNlslejOsJ27">
-    <mxGraphModel>
+    <mxGraphModel dx="1687" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="690" pageHeight="980" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="30" width="155" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-2" value="Search for listing" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="687.5" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-3" value="View Apartment Details" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="ZRMwxon8xwuSLsotXi2d-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-4" value="&lt;div&gt;Browse Listings via Map&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="687.5" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-5" value="Manage Listings" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="687.5" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="ZRMwxon8xwuSLsotXi2d-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-6" value="&lt;div&gt;View Roommates&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="687.5" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="ZRMwxon8xwuSLsotXi2d-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-7" value="&lt;div&gt;View Building Information&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="687.5" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="ZRMwxon8xwuSLsotXi2d-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-8" value="&lt;div&gt;Login/Sign Up&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="687.5" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="ZRMwxon8xwuSLsotXi2d-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-9" value="&lt;div&gt;Adjust Settings&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="687.5" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-10" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-11" value="&lt;div&gt;Admin&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-17" value="Search for listing" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="10" width="310" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-18" value="&lt;div&gt;Actor: User&lt;/div&gt;&lt;div&gt;Step by Step Description&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZRMwxon8xwuSLsotXi2d-17">
+          <mxGeometry y="30" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-19" value="&lt;div&gt;1. User provides selection specifications&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. System filters through database using search criteria to find desirable listings&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. User highlights which listings appeal to them and &#39;favorite&#39; them&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. User can look at a detailed view of listings&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZRMwxon8xwuSLsotXi2d-17">
+          <mxGeometry y="60" width="310" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-22" value="View Apartment Details" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="10" width="310" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-23" value="&lt;div&gt;Actor: User, Admin&lt;/div&gt;&lt;div&gt;Step by Step Description&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZRMwxon8xwuSLsotXi2d-22">
+          <mxGeometry y="30" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-24" value="&lt;div&gt;1. User selects a shown listing&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. System displays information of the listing including estimated cost, amenities, etc;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZRMwxon8xwuSLsotXi2d-22">
+          <mxGeometry y="60" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;jumpSize=0;strokeColor=default;endArrow=none;startFill=0;" edge="1" parent="1" source="ZRMwxon8xwuSLsotXi2d-2" target="ZRMwxon8xwuSLsotXi2d-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="ZRMwxon8xwuSLsotXi2d-3" target="ZRMwxon8xwuSLsotXi2d-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="ZRMwxon8xwuSLsotXi2d-5" target="ZRMwxon8xwuSLsotXi2d-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="ZRMwxon8xwuSLsotXi2d-5" target="ZRMwxon8xwuSLsotXi2d-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-34" value="Browse via map" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="260" width="310" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-35" value="&lt;div&gt;Actor: User&lt;/div&gt;&lt;div&gt;Step by Step Description&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZRMwxon8xwuSLsotXi2d-34">
+          <mxGeometry y="30" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-36" value="&lt;div&gt;1. User navigates map feature to listing pins&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Listings filter singles out pins that match selections&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Clicking a pin displays detailed view of apartment&amp;nbsp; &lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZRMwxon8xwuSLsotXi2d-34">
+          <mxGeometry y="60" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-37" value="Manage Listings" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="390" width="260" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-38" value="&lt;div&gt;Actor: User, Admin&lt;/div&gt;&lt;div&gt;Step by Step Description&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZRMwxon8xwuSLsotXi2d-37">
+          <mxGeometry y="30" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-39" value="&lt;div&gt;1. User is prompted with the option to create a listing&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. System takes in inputs for listing details&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Listing is posted to public board&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. User and Admin can view their listing details and remove their own listings as they please&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZRMwxon8xwuSLsotXi2d-37">
+          <mxGeometry y="60" width="260" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-40" value="View Roomates" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="440" width="310" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-41" value="&lt;div&gt;Actor: User&lt;/div&gt;&lt;div&gt;Step by Step Description&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZRMwxon8xwuSLsotXi2d-40">
+          <mxGeometry y="30" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-42" value="&lt;div&gt;1. User is able to view other users who have allowed their information to be seen&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. User is able to find contact details, and connect with other users&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZRMwxon8xwuSLsotXi2d-40">
+          <mxGeometry y="60" width="310" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-43" value="View Building Info" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="390" width="195" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-44" value="&lt;div&gt;Actor: User&lt;/div&gt;&lt;div&gt;Step by Step Description&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZRMwxon8xwuSLsotXi2d-43">
+          <mxGeometry y="30" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-45" value="&lt;div&gt;1. Displays list of nearby buildings to users&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Users can click on building items and view detailed information&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZRMwxon8xwuSLsotXi2d-43">
+          <mxGeometry y="60" width="195" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-46" value="Login/ Sign up" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="610" width="310" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-47" value="&lt;div&gt;Actor: User&lt;/div&gt;&lt;div&gt;Step by Step Description&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZRMwxon8xwuSLsotXi2d-46">
+          <mxGeometry y="30" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-48" value="&lt;div&gt;1. Displays login interface to user&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. User can enter their username and password to gain access to majority of the site&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. If the user has no existing account, they are given the option to sign up&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. User is prompted to input their username, personal information, and login info&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZRMwxon8xwuSLsotXi2d-46">
+          <mxGeometry y="60" width="310" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-49" value="Adjust Settings" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="635" width="310" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-50" value="&lt;div&gt;Actor: User&lt;/div&gt;&lt;div&gt;Step by Step Description&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZRMwxon8xwuSLsotXi2d-49">
+          <mxGeometry y="30" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRMwxon8xwuSLsotXi2d-51" value="&lt;div&gt;1. Displays settings interface to user&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. If logged in, user can adjust their personal settings for their account&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. User settings are logged in the system&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZRMwxon8xwuSLsotXi2d-49">
+          <mxGeometry y="60" width="310" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
