@@ -111,7 +111,9 @@
           <mxGeometry y="60" width="260" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ZRMwxon8xwuSLsotXi2d-40" value="View Roomates" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="440" width="310" height="170" as="geometry" />
+          <mxGeometry x="60" y="440" width="310" height="170" as="geometry">
+            <mxRectangle x="60" y="440" width="120" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZRMwxon8xwuSLsotXi2d-41" value="&lt;div&gt;Actor: User&lt;/div&gt;&lt;div&gt;Step by Step Description&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZRMwxon8xwuSLsotXi2d-40">
           <mxGeometry y="30" width="310" height="30" as="geometry" />
